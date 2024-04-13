@@ -1,2 +1,2 @@
 # Relatório de vendas 
-![Tabelas](https://github.com/1GM1910/Banco-de-Dados-Universidade/blob/main/imgs/TABELAS.png)
+![Tabelas](https://github.com/1GM1910/Relatorio-Vendas-BI/blob/main/assets/sales_report.png)
